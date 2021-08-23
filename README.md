@@ -10,11 +10,11 @@ The player who takes the last chip in the pile loses.
 ## Demo
 A normal game with a random number of chips to start.
 
-![demo one](https://user-images.githubusercontent.com/48612525/130403422-65c4a286-78bd-4b88-8676-99c4270504c3.png)
+![demo one](https://user-images.githubusercontent.com/48612525/130404797-1f8d63a5-6401-48b1-8061-9bf1abb3fafc.png)
 
 A game where you play against the AI (computer).
 
-![demo two](https://user-images.githubusercontent.com/48612525/130403415-0889b16d-0eaa-4927-a641-0f4ee5cbe5a3.png)
+![demo two](https://user-images.githubusercontent.com/48612525/130404559-ba12de6d-021c-4b15-b586-185cc5f655ec.png)
 
 ## Game history
 
@@ -29,6 +29,10 @@ Tanner won in 8 turns with 71 chips in the pile to start
 Tanner won in 4 turns with 5 chips in the pile to start
 AI won in 7 turns with 30 chips in the pile to start
 Root won in 7 turns with 42 chips in the pile to start
+Tanner won in 8 turns with 85 chips in the pile to start
+Tanner won in 8 turns with 15 chips in the pile to start
+AI won in 7 turns with 15 chips in the pile to start
+Tanner won in 6 turns with 25 chips in the pile to start
 ```
 
 ## Resources
