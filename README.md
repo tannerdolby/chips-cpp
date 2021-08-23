@@ -37,4 +37,4 @@ Tanner won in 6 turns with 25 chips in the pile to start
 
 ## Resources
 
-[Learning C++](https://www.linkedin.com/learning/learning-c-plus-plus-3/fun-with-c-plus-plus) By Erin Colvin on LinkedIn.
+[Learning C++](https://www.linkedin.com/learning/learning-c-plus-plus-3/fun-with-c-plus-plus) - By Erin Colvin on LinkedIn.
