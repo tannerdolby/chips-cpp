@@ -1,0 +1,4 @@
+Tanner won in 8 turns with 71 chips in the pile to start
+Tanner won in 4 turns with 5 chips in the pile to start
+AI won in 7 turns with 30 chips in the pile to start
+Root won in 7 turns with 42 chips in the pile to start
