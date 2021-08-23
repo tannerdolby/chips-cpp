@@ -2,7 +2,7 @@
 
 This program is similiar to a game of chips where users will take a variable number of chips each turn until the chips in the pile are empty. The game requires two players. Each player will be prompted for their name, then prompted to enter a starting number of "chips" in the pile (or 0 for random). You can play against the computer by typing "AI" for the player two name. 
 
-After both user names are taken as input and a starting number of chips in the pile specified. The game loop will begin and the number of current chips in the pile will be displayed as "There are 'X' chips in the pile" followde by a newline stating the maximum number of chips a player can take for that turn based on the total chips in the pile. After player one takes 'X' chips, it will be player two's turn to take chips. 
+After both user names are taken as input and a starting number of chips in the pile specified. The game loop will begin and the number of current chips in the pile will be displayed as "There are 'X' chips in the pile" followed by a newline stating the maximum number of chips a player can take for that turn based on the total chips in the pile. After player one takes 'X' chips, it will be player two's turn to take chips. 
 
 ## Win Condition
 The player who takes the last chip in the pile loses.
